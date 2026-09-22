@@ -1,23 +1,16 @@
-<!-- =========================================================
-     GITHUB PROFILE README
-
-     Replace only:
-     YOUR_NAME
-========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0969DA,100:00D9FF&text=YOUR_NAME&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF2BD6,50:8A2BE2,100:00F0FF&text=BALERIN&fontColor=FFFFFF&fontSize=68&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=59&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+modern+full-stack+applications;Designing+clean+and+scalable+systems;Frontend+%E2%80%A2+Backend+%E2%80%A2+APIs+%E2%80%A2+Automation;Turning+ideas+into+working+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&duration=2600&pause=800&color=FF2BD6&center=true&vCenter=true&width=900&lines=BUILDING+MODERN+FULL-STACK+SYSTEMS;FRONTEND+%E2%80%A2+BACKEND+%E2%80%A2+APIs+%E2%80%A2+AUTOMATION;CLEAN+ARCHITECTURE+%E2%80%A2+SCALABLE+SYSTEMS;BUILD.+SHIP.+IMPROVE." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/BUILDING-SOFTWARE-0969DA?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-SCALABILITY-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FULL--STACK-SOFTWARE_ENGINEER-FF2BD6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00F0FF?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -25,11 +18,11 @@
 
 ---
 
-## `> whoami`
+## `> WHOAMI`
 
-```ts
-const developer = {
-    role: "Full-Stack Developer",
+```ts id="jdw378"
+const balerin = {
+    role: "Full-Stack Software Engineer",
 
     focus: [
         "Web Applications",
@@ -53,22 +46,22 @@ const developer = {
 };
 ```
 
-I design and build software across the entire stack — from interfaces and client-side logic to APIs, databases, infrastructure and deployment.
+I build software across the entire stack — from interfaces and client-side logic to APIs, databases, infrastructure and deployment.
 
-I care about building software that is:
+My goal is simple:
 
-`clean` • `maintainable` • `secure` • `scalable` • `fast`
+**build clean, fast, secure and scalable software.**
 
 ---
 
-# ⚡ Engineering Profile
+# ⚡ ENGINEERING
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### `01 // FRONTEND`
+## `01 // FRONTEND`
 
 Building responsive and maintainable interfaces with modern frontend technologies.
 
@@ -86,7 +79,7 @@ Building responsive and maintainable interfaces with modern frontend technologie
 
 <td width="50%" valign="top">
 
-### `02 // BACKEND`
+## `02 // BACKEND`
 
 Designing APIs and backend services with clean and predictable architecture.
 
@@ -108,7 +101,7 @@ Designing APIs and backend services with clean and predictable architecture.
 
 <td width="50%" valign="top">
 
-### `03 // DATA`
+## `03 // DATA`
 
 Designing reliable data layers for modern applications.
 
@@ -126,7 +119,7 @@ Designing reliable data layers for modern applications.
 
 <td width="50%" valign="top">
 
-### `04 // INFRASTRUCTURE`
+## `04 // INFRASTRUCTURE`
 
 Building reproducible development and deployment environments.
 
@@ -134,10 +127,10 @@ Building reproducible development and deployment environments.
 
 * Docker
 * Linux
-* Environment configuration
 * Git workflows
-* Deployment
 * CI/CD
+* Deployment
+* Environment configuration
 * Automation
 
 </td>
@@ -147,60 +140,60 @@ Building reproducible development and deployment environments.
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 TECHNOLOGY STACK
 
 <div align="center">
 
-### Languages
+### `LANGUAGES`
 
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FF2BD6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
 
 <br/><br/>
 
-### Frontend
+### `FRONTEND`
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF2BD6"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF"/>
 
 <br/><br/>
 
-### Backend
+### `BACKEND`
 
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FF2BD6"/>
 <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=8A2BE2"/>
 
 <br/><br/>
 
-### Databases
+### `DATABASES`
 
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF4438"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF2BD6"/>
 
 <br/><br/>
 
-### Infrastructure & Tools
+### `INFRASTRUCTURE`
 
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF2BD6"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF"/>
 
 </div>
 
 ---
 
-# 🏗️ System Mindset
+# 🏗️ SYSTEM MINDSET
 
-```text
+```text id="nqnkpc"
 ┌─────────────────────────────────────────────────────────────┐
 │                       APPLICATION                           │
 ├──────────────────────┬──────────────────────────────────────┤
@@ -229,7 +222,7 @@ Building reproducible development and deployment environments.
 
 ---
 
-# 🧠 Development Philosophy
+# 🧠 ENGINEERING PRINCIPLES
 
 <table>
 
@@ -237,7 +230,7 @@ Building reproducible development and deployment environments.
 
 <td align="center" width="33%">
 
-### `CLEAN`
+## `CLEAN`
 
 Readable code over unnecessary complexity.
 
@@ -245,7 +238,7 @@ Readable code over unnecessary complexity.
 
 <td align="center" width="33%">
 
-### `FAST`
+## `FAST`
 
 Performance is part of the product.
 
@@ -253,9 +246,9 @@ Performance is part of the product.
 
 <td align="center" width="33%">
 
-### `SECURE`
+## `SECURE`
 
-Security should be designed in from the start.
+Security belongs in the architecture.
 
 </td>
 
@@ -265,25 +258,25 @@ Security should be designed in from the start.
 
 <td align="center">
 
-### `SCALABLE`
+## `SCALABLE`
 
-Architecture should survive project growth.
-
-</td>
-
-<td align="center">
-
-### `AUTOMATED`
-
-If something is repetitive, automate it.
+Systems should survive growth.
 
 </td>
 
 <td align="center">
 
-### `MAINTAINABLE`
+## `AUTOMATED`
 
-Good software should remain understandable.
+Repetitive work should be automated.
+
+</td>
+
+<td align="center">
+
+## `MAINTAINABLE`
+
+Software should remain understandable.
 
 </td>
 
@@ -293,9 +286,9 @@ Good software should remain understandable.
 
 ---
 
-# 🔬 Areas of Interest
+# 🔬 AREAS OF INTEREST
 
-```yaml
+```yaml id="kzwfvh"
 engineering:
   frontend:
     - modern web interfaces
@@ -321,95 +314,98 @@ engineering:
     - deployment
     - automation
 
-  other:
+  systems:
+    - system design
     - developer tooling
     - bots
-    - system design
     - automation
 ```
 
 ---
 
-# ⚙️ Engineering Workflow
+# ⚙️ WORKFLOW
 
-```text
-01. Understand the problem
-            ↓
-02. Define requirements
-            ↓
-03. Design the architecture
-            ↓
-04. Build the core
-            ↓
-05. Handle edge cases
-            ↓
-06. Test the system
-            ↓
-07. Deploy
-            ↓
-08. Improve
+```text id="k6dw18"
+DISCOVER
+   ↓
+DESIGN
+   ↓
+ARCHITECT
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEPLOY
+   ↓
+MONITOR
+   ↓
+IMPROVE
 ```
 
 ---
 
-# 🎯 Current Focus
+# 🎯 CURRENT FOCUS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-BUILDING_REAL_PRODUCTS-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BUILDING-REAL_PRODUCTS-FF2BD6?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/02-IMPROVING_ARCHITECTURE-0969DA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DESIGNING-BETTER_ARCHITECTURE-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/03-WRITING_BETTER_CODE-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/WRITING-BETTER_CODE-00F0FF?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/04-LEARNING_EVERY_DAY-0969DA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SHIPPING-MORE-FF2BD6?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-# 🖥️ Workspace
+# 🖥️ TERMINAL
 
-```bash
+```bash id="7cgqi4"
 $ whoami
-fullstack-developer
+balerin
+
+$ role
+full-stack software engineer
 
 $ focus
-web + backend + APIs + automation
+web / backend / APIs / automation
 
 $ stack
-typescript + javascript + python
+typescript / javascript / python
 
 $ environment
-linux + windows + docker
+linux / windows / docker
 
 $ editor
 VS Code
 
 $ status
-building...
+BUILDING
 
-$ philosophy
-code. build. improve. repeat.
+$ motto
+build. ship. improve.
 ```
 
 ---
 
-# 📡 Contact
+# 📡 CONTACT
 
 <div align="center">
 
-### Let's build something interesting.
+## `LET'S BUILD SOMETHING.`
 
 <br/>
 
 <a href="https://t.me/balerinceo">
-  <img src="https://img.shields.io/badge/TELEGRAM-@balerinceo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TELEGRAM-@balerinceo-FF2BD6?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-`Telegram is my primary contact.`
+**PRIMARY CONTACT — TELEGRAM**
 
 </div>
 
@@ -417,34 +413,18 @@ code. build. improve. repeat.
 
 <div align="center">
 
-### `< CODE / BUILD / SHIP / REPEAT >`
+## `BUILD // SHIP // IMPROVE`
 
 <br/>
 
-<img src="https://img.shields.io/badge/FRONTEND-0D1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/BACKEND-0D1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/DATABASES-0D1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/DEVOPS-0D1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/AUTOMATION-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/FRONTEND-FF2BD6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BACKEND-8A2BE2?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DATABASES-00F0FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DEVOPS-FF2BD6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AUTOMATION-8A2BE2?style=flat-square&labelColor=0D1117"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:0969DA,100:0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF2BD6,50:8A2BE2,100:00F0FF"/>
 
 </div>
-
-
-<!--
-**nelegalovcod/nelegalovcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
